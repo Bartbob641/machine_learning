@@ -1,2 +1,2 @@
 # machine_learning
-information
+This folder contains code for kaggle projects
